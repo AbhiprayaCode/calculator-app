@@ -30,7 +30,6 @@ function hitungKeliling() {
   paragraph.appendChild(node);
   const element = document.getElementById("hasil-keliling");
   element.appendChild(paragraph);
-
   return element;
 }
 
